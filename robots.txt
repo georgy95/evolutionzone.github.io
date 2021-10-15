@@ -1,2 +1,2 @@
-User-agent: MajesicBot
+User-agent: AhrefsBot
 Disallow: /
